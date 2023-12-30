@@ -1,0 +1,26 @@
+{
+    "name":"Sri Harini",
+    "contact":{
+        "email":"sriharinimuthukrishnan@gmail.com",
+        "phone number":6381387438,
+        "address": {
+            "street":"S.S.Nagar",
+            "city": "Madurai",
+            "state": "TN",
+            "zip": "625106"
+        }
+    },
+    "education": {
+        "degree": "Bachelor of Science in Computer Science",
+        "University": " Anna University",
+        "year": 2010
+    },
+    "skills": [
+        "JavaScript",
+        "html",
+        "css",
+        "Node.js",
+        "Git",
+        "Problem Solving"
+      ]
+}
