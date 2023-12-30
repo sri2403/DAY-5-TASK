@@ -19,11 +19,11 @@ for(let i in keys){
 }
 
 //for of loop
-for(let i of keys){
-    console.log(`${i}: ${jsonObj[i]}`);
+for(let key of keys){
+    console.log(`${key}: ${jsonObj[key]}`);
 }
 
 //for each
-keys.forEach(i =>{
-    console.log(`${i}: ${jsonObj[i]}`);
+keys.forEach(key =>{
+    console.log(`${key}: ${jsonObj[key]}`);
 })
