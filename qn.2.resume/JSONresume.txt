@@ -11,9 +11,9 @@
         }
     },
     "education": {
-        "degree": "Bachelor of Science in Computer Science",
+        "degree": "Bachelor of Engineering in Computer Science",
         "University": " Anna University",
-        "year": 2010
+        "year": 2023
     },
     "skills": [
         "JavaScript",
